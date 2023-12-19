@@ -1,0 +1,35 @@
+_repo: Giovanna-b-Tarina-kauniiden-tornien-kaupungista_72152
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Heikel, Marjo
+    gutenberg_agent_id: '56566'
+    url: http://www.gutenberg.org/2009/agents/56566
+creator:
+  author:
+    agent_name: Michaëlis, Sophus
+    alias: Michaelis, Sophus
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '48789'
+    url: http://www.gutenberg.org/2009/agents/48789
+    wikipedia: https://da.wikipedia.org/wiki/Sophus_Michaëlis
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72152'
+language: fi
+pgterms:marc905: 20231105054103michalis
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Giovanna : $b Tarina kauniiden tornien kaupungista'
+url: http://www.gutenberg.org/ebooks/72152
