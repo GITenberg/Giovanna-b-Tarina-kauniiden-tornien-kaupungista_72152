@@ -5,6 +5,9 @@ contributor:
     agent_name: Heikel, Marjo
     gutenberg_agent_id: '56566'
     url: http://www.gutenberg.org/2009/agents/56566
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Michaëlis, Sophus
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48789
     wikipedia: https://da.wikipedia.org/wiki/Sophus_Michaëlis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72152#Giovanna-b-Tarina-kauniiden-tornien-kaupungista
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72152'
